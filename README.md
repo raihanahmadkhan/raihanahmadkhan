@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a final-year Computer Science student at **BIT Mesra** with a passion for building tech that solves real campus problems. I don't just write code; I build products that people use.
+I am a final-year Computer Science student at **BIT Mesra** with a passion for building tech that solves real world problems. I don't just write code; I build products that people use.
 
 * 🔭 **What I'm building:** I'm currently refining an **AI-Powered Student Stress Detector** using React and FastAPI to help students track mental health via fuzzy logic.
 * 🌱 **What I'm learning:** Deep diving into **Microservices, Docker, and System Design** to make my applications scalable and robust.
@@ -20,10 +20,11 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
 
 ### 📫 Connect with Me:
 
-<p align="left">
-<a href="https://linkedin.com/in/raihanahmadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihanahmadkhan" height="30" width="40" /></a>
-<a href="mailto:raihanhzb@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="raihanhzb@gmail.com" height="30" width="40" /></a>
-<a href="https://codolio.com/profile/raihan" target="blank"><img align="center" src="https://codolio.com/favicon.ico" alt="codolio" height="30" width="30" style="border-radius:50%"/></a>
+<p align="center">
+  <a href="https://linkedin.com/in/raihanahmadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihanahmadkhan" height="30" width="40" /></a>
+  <a href="mailto:raihanhzb@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="raihanhzb@gmail.com" height="30" width="40" /></a>
+  <a href="https://codolio.com/profile/raihan" target="blank"><img align="center" src="https://codolio.com/favicon.ico" alt="codolio" height="30" width="30" style="border-radius:50%"/></a>
+  <a href="https://leetcode.com/u/raihanahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raihanahmad" height="30" width="40" /></a>
 </p>
 
 ---
