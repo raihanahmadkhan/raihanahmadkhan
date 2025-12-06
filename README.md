@@ -78,7 +78,7 @@ I am a third-year Computer Science student at **BIT Mesra** with a passion for b
   <br/>
   <br/>
   
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raihanahmadkhan&theme=midnight-purple)](https://git.io/streak-stats)
 
 <br/>
 
