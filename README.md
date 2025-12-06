@@ -90,9 +90,3 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanahmadkhan&theme=onedark&no-frame=true&margin-w=15" alt="trophies" />
-  </a>
-</div>
