@@ -1,20 +1,20 @@
 <h1 align="center">Hi there, I'm Raihan Ahmad 👋</h1>
-<h3 align="center">A Full-Stack Developer & Software Engineering Student from India 🇮🇳</h3>
+<h3 align="center">A Full-Stack Developer & Software Engineering Student</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+React+Enthusiast;Google+Student+Ambassador;Open+Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+React+Enthusiast;Google+Student+Ambassador" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 💫 About Me:
+### 🚀 About Me
 
-* 🔭 I’m currently working on an **AI-Powered Student Stress Detector** using React and FastAPI.
-* 🌱 I’m currently learning **Microservices, Scalable Backend Architecture, and Docker**.
-* 👯 I’m looking to collaborate on **MERN Stack and Python (FastAPI) projects**.
-* 👨‍💻 All of my projects are available at [https://github.com/raihanahmadkhan](https://github.com/raihanahmadkhan)
-* 💬 Ask me about **React, Node.js, FastAPI, and System Design**.
-* ⚡ Fun fact: I am the **General Secretary of the Aakshar Literary Society** and a **Google Student Ambassador**.
+I am a final-year Computer Science student at **BIT Mesra** with a passion for building tech that solves real campus problems. I don't just write code; I build products that people use.
+
+* 🔭 **What I'm building:** I'm currently refining an **AI-Powered Student Stress Detector** using React and FastAPI to help students track mental health via fuzzy logic.
+* 🌱 **What I'm learning:** Deep diving into **Microservices, Docker, and System Design** to make my applications scalable and robust.
+* 💡 **My "Why":** I love community-driven development. As the **General Secretary of Aakshar Literary Society** and a **Google Student Ambassador**, I strive to bridge the gap between technology and people.
+* ⚡ **Let's talk about:** React optimization, REST API security, or how to organize a hackathon for 200+ people!
 
 ---
 
@@ -28,21 +28,17 @@
 
 ---
 
-### 💻 Languages I know
-<details>
-  <summary>Peek</summary>
-  <br>
+### 💻 Languages
+<p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-</details>
+</p>
 
-### 🛠 Tech & Frameworks I know
-<details>
-  <summary>Peek</summary>
-  <br>
+### 🛠 Tech & Frameworks
+<p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
@@ -51,31 +47,27 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
-</details>
+</p>
 
-### 🗄️ Databases I know
-<details>
-  <summary>Peek</summary>
-  <br>
+### 🗄️ Databases
+<p align="left">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase"/>
-</details>
+</p>
 
-### ⚙️ Tools & Platforms
-<details>
-  <summary>Peek</summary>
-  <br>
+### ⚙️ Tools & DevOps
+<p align="left">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-</details>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raihanahmadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="raihanahmadkhan's github stats" />
