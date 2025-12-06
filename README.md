@@ -77,8 +77,6 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanahmadkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Raihan's Activity Graph" />
   <br/>
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanahmadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="raihanahmadkhan's github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanahmadkhan&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak stats"/>
   <br/>
 
