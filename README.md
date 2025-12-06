@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I am a final-year Computer Science student at **BIT Mesra** with a passion for building tech that solves real world problems. I don't just write code; I build products that people use.
+I am a third-year Computer Science student at **BIT Mesra** with a passion for building tech that solves real world problems. I don't just write code; I build products that people use.
 
 * 🔭 **What I'm building:** I'm currently refining an **AI-Powered Student Stress Detector** using React and FastAPI to help students track mental health via fuzzy logic.
 * 🌱 **What I'm learning:** Deep diving into **Microservices, Docker, and System Design** to make my applications scalable and robust.
