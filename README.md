@@ -20,7 +20,7 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
 
 ### 📫 Connect with Me:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/raihanahmadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihanahmadkhan" height="30" width="40" /></a>
   <a href="mailto:raihanhzb@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="raihanhzb@gmail.com" height="30" width="40" /></a>
   <a href="https://codolio.com/profile/raihan" target="blank"><img align="center" src="https://codolio.com/favicon.ico" alt="codolio" height="30" width="30" style="border-radius:50%"/></a>
