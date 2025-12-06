@@ -85,18 +85,3 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanahmadkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
 </div>
 
-<br/>
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihanahmadkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="raihanahmadkhan trophies" />
-  </a>
-</div>
-
-<br/>
-
-<h3 align="left">🚀 LeetCode Stats:</h3>
-<div align="center">
-  <img src="https://leetcard.app/api/raihanahmadkhan?theme=tokyonight&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
-</div>
