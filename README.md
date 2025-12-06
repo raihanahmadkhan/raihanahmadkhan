@@ -77,8 +77,7 @@ I am a third-year Computer Science student at **BIT Mesra** with a passion for b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanahmadkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Raihan's Activity Graph" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanahmadkhan&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak stats"/>
-  <br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
 
 <br/>
 
