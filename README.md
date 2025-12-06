@@ -71,24 +71,32 @@ I am a final-year Computer Science student at **BIT Mesra** with a passion for b
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanahmadkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Raihan's Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihanahmadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="raihanahmadkhan's github stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanahmadkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+  <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanahmadkhan&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raihanahmadkhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="raihanahmadkhan's github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanahmadkhan&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="streak stats"/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanahmadkhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
 </div>
 
 <br/>
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raihanahmadkhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="raihanahmadkhan trophies" />
   </a>
+</div>
+
+<br/>
+
+<h3 align="left">🚀 LeetCode Stats:</h3>
+<div align="center">
+  <img src="https://leetcard.app/api/raihanahmadkhan?theme=tokyonight&font=Segoe%20UI&ext=heatmap" alt="LeetCode Stats" />
 </div>
