@@ -77,8 +77,6 @@ I am a third-year Computer Science student at **BIT Mesra** with a passion for b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanahmadkhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Raihan's Activity Graph" />
   <br/>
   <br/>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raihanahmadkhan&theme=midnight-purple)](https://git.io/streak-stats)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/raihanahmad?theme=dark)
 
